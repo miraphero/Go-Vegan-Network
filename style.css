@@ -1,3 +1,6 @@
+*{
+   /* margin: 0; */
+}
 body{
     font-family: 'Poppins', sans-serif;
     
@@ -104,6 +107,7 @@ p{
    border-radius: 20px;
    background-color: white;
    margin: 2%;
+   border: none;
  
 }
 .dish-box img{
@@ -119,7 +123,7 @@ p{
    height: 180px;
    width: 80%;
    display: flex;
-  border: 5px solid lightgray;
+  border: 1px solid lightgray;
   border-radius: 20px;
   box-shadow: 10px 10px 50px gray;
   margin-left: 130px;
